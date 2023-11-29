@@ -1,0 +1,14 @@
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\RoverControllerCenter\RoverControllerCenter\bin\Debug\net6.0\RoverControllerCenter.exe
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\RoverControllerCenter\RoverControllerCenter\bin\Debug\net6.0\RoverControllerCenter.deps.json
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\RoverControllerCenter\RoverControllerCenter\bin\Debug\net6.0\RoverControllerCenter.runtimeconfig.json
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\RoverControllerCenter\RoverControllerCenter\bin\Debug\net6.0\RoverControllerCenter.dll
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\RoverControllerCenter\RoverControllerCenter\bin\Debug\net6.0\RoverControllerCenter.pdb
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\RoverControllerCenter\RoverControllerCenter\obj\Debug\net6.0\RoverControllerCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\RoverControllerCenter\RoverControllerCenter\obj\Debug\net6.0\RoverControllerCenter.AssemblyInfoInputs.cache
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\RoverControllerCenter\RoverControllerCenter\obj\Debug\net6.0\RoverControllerCenter.AssemblyInfo.cs
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\RoverControllerCenter\RoverControllerCenter\obj\Debug\net6.0\RoverControllerCenter.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\RoverControllerCenter\RoverControllerCenter\obj\Debug\net6.0\RoverControllerCenter.dll
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\RoverControllerCenter\RoverControllerCenter\obj\Debug\net6.0\refint\RoverControllerCenter.dll
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\RoverControllerCenter\RoverControllerCenter\obj\Debug\net6.0\RoverControllerCenter.pdb
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\RoverControllerCenter\RoverControllerCenter\obj\Debug\net6.0\RoverControllerCenter.genruntimeconfig.cache
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\RoverControllerCenter\RoverControllerCenter\obj\Debug\net6.0\ref\RoverControllerCenter.dll

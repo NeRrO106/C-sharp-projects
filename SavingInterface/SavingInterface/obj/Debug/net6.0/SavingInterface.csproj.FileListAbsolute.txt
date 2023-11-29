@@ -1,0 +1,14 @@
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\SavingInterface\SavingInterface\bin\Debug\net6.0\SavingInterface.exe
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\SavingInterface\SavingInterface\bin\Debug\net6.0\SavingInterface.deps.json
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\SavingInterface\SavingInterface\bin\Debug\net6.0\SavingInterface.runtimeconfig.json
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\SavingInterface\SavingInterface\bin\Debug\net6.0\SavingInterface.dll
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\SavingInterface\SavingInterface\bin\Debug\net6.0\SavingInterface.pdb
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\SavingInterface\SavingInterface\obj\Debug\net6.0\SavingInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\SavingInterface\SavingInterface\obj\Debug\net6.0\SavingInterface.AssemblyInfoInputs.cache
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\SavingInterface\SavingInterface\obj\Debug\net6.0\SavingInterface.AssemblyInfo.cs
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\SavingInterface\SavingInterface\obj\Debug\net6.0\SavingInterface.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\SavingInterface\SavingInterface\obj\Debug\net6.0\SavingInterface.dll
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\SavingInterface\SavingInterface\obj\Debug\net6.0\refint\SavingInterface.dll
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\SavingInterface\SavingInterface\obj\Debug\net6.0\SavingInterface.pdb
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\SavingInterface\SavingInterface\obj\Debug\net6.0\SavingInterface.genruntimeconfig.cache
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\SavingInterface\SavingInterface\obj\Debug\net6.0\ref\SavingInterface.dll

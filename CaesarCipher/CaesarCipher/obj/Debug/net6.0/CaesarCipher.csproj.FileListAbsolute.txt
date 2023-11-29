@@ -1,0 +1,14 @@
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\CaesarCipher\CaesarCipher\bin\Debug\net6.0\CaesarCipher.exe
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\CaesarCipher\CaesarCipher\bin\Debug\net6.0\CaesarCipher.deps.json
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\CaesarCipher\CaesarCipher\bin\Debug\net6.0\CaesarCipher.runtimeconfig.json
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\CaesarCipher\CaesarCipher\bin\Debug\net6.0\CaesarCipher.dll
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\CaesarCipher\CaesarCipher\bin\Debug\net6.0\CaesarCipher.pdb
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.AssemblyInfo.cs
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.dll
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\CaesarCipher\CaesarCipher\obj\Debug\net6.0\refint\CaesarCipher.dll
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.pdb
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.genruntimeconfig.cache
+C:\Users\Andrei\Documents\GitHub\C-sharp-projects\CaesarCipher\CaesarCipher\obj\Debug\net6.0\ref\CaesarCipher.dll
